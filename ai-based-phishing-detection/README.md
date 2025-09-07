@@ -99,13 +99,9 @@ Stored in Chrome `chrome.storage.local`:
 4. Push to your branch: `git push origin feature/my-feature`
 5. Open a Pull Request
 
-## Authors
-1. Sai Teja Alasyam
-2. Akash Sateesha
-3. Vishal Lakshmi Narayanan
-4. Aarya Choudhary
-5. Aditya Rallapalli
-6. Ajita Bhardwaj
-7. Lekshman Babu Devendra Babu
-8. Maanesh Mohanraj
+## Contributors
+The following people contributed to the original version of this project:
 
+- Sai Teja Alasyam  
+- Akash Sateesha   
+- Aditya Rallapalli  
